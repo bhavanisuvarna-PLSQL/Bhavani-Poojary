@@ -1,9 +1,16 @@
 # 👋 Hi, I'm Bhavani S Poojary
 
+## 👩‍💻 About Me
+I am a Lead Software Engineer with 11+ years of experience specializing in Oracle PL/SQL development, SQL optimization, and performance tuning.  
+My expertise includes stored procedures, triggers, packages, and transaction control, with a proven track record of delivering efficient database solutions.  
+
+Currently, I am expanding my skill set by learning Python (string operations, debugging, exception handling) and exploring Data Science and Generative AI to complement my strong database background.
+
+
 ### 💼 Lead Software Engineer | PL/SQL Developer
 - 11+ years of experience in Oracle PL/SQL development ,SQL Queries
 - Expertise in performance tuning, stored procedures, triggers, and transaction control
--Upskilling in Python with focus on slicing, debugging, and exception handling
+- Upskilling in Python with focus on slicing, debugging, and exception handling
 
 
 ---
@@ -22,7 +29,7 @@
 
 ## 🛠️ Skills
 - **Databases**: Oracle PL/SQL, SQL Queries  
-- **Programming**: Python, .NET (VB.NET, C#)  
+- **Programming**: Python(Learning), .NET (VB.NET, C#)  
 - **Tools**: SQL Developer, Jupyter Notebook, GitHub  
  
 
