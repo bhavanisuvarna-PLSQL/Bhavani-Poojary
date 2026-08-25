@@ -2,9 +2,12 @@
 
 ## 👩‍💻 About Me
 I am a Lead Software Engineer with 11+ years of experience specializing in Oracle PL/SQL development, SQL optimization, and performance tuning.  
-My expertise includes stored procedures, triggers, packages, and transaction control, with a proven track record of delivering efficient database solutions.  
+My expertise includes stored procedures, triggers, packages, SQL queries, and transaction control, with a proven track record of delivering efficient database solutions.  
+
+I have strong knowledge of database design principles including **Proficient in DDL, DML, complex joins, subqueries, window functions, aggregations, CTEs, views, and indexing**, ensuring data integrity and efficient query performance.  
 
 Currently, I am expanding my skill set by learning Python (string operations, debugging, exception handling) and exploring Data Science and Generative AI to complement my strong database background.
+
 
 
 ### 💼 Lead Software Engineer | PL/SQL Developer
