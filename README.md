@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Bhavani S Poojary
 
 ### 💼 Lead Software Engineer | PL/SQL Developer
-- 11+ years of experience in Oracle PL/SQL development and SQL Server
+- 11+ years of experience in Oracle PL/SQL development ,SQL Queries
 - Expertise in performance tuning, stored procedures, triggers, and transaction control
-- Hands-on with Python (string slicing, debugging, exception handling)
-- Exploring Microsoft Power Platform, Dataverse, and Generative AI
+-Upskilling in Python with focus on slicing, debugging, and exception handling
+
 
 ---
 
@@ -21,16 +21,14 @@
 ---
 
 ## 🛠️ Skills
-- **Databases**: Oracle PL/SQL, SQL Server  
+- **Databases**: Oracle PL/SQL, SQL Queries  
 - **Programming**: Python, .NET (VB.NET, C#)  
 - **Tools**: SQL Developer, Jupyter Notebook, GitHub  
-- **Platforms**: Microsoft Dynamics 365, Power Platform, Dataverse  
+ 
 
 ---
 
 ## 📫 Contact
 - Email: **bhavani.suvarna@yahoo.in**  
-- LinkedIn: [linkedin.com/in/bhavanispoojary](https://www.linkedin.com/in/bhavanispoojary)
+- LinkedIn: [www.linkedin.com/in/bhavani-poojary-plsql](https://www.linkedin.com/in/bhavani-poojary-plsql/)
 
----
-⭐️ *This profile showcases my journey — from PL/SQL expertise to Python and Data Science exploration.*
