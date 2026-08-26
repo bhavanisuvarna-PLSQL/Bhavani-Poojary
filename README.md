@@ -22,7 +22,7 @@ Currently, I am expanding my skill set by learning Python (string operations, de
 - [PLSQL Scripts](https://github.com/bhavanisuvarna-PLSQL/plsql-scripts)  
   Advanced PL/SQL procedures, performance tuning, and transaction control examples  
 
-- [SQL Developer Projects](ca://s?q=Show_me_SQL_Developer_Projects_repo)  
+- [SQL Developer Projects](https://github.com/bhavanisuvarna-PLSQL/SQL-Developer-Projects) 
   Schema design, constraints, and optimization samples  
 
 - [Python Exercises](ca://s?q=Show_me_Python_Exercises_repo)  
