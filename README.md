@@ -25,7 +25,7 @@ Currently, I am expanding my skill set by learning Python (string operations, de
 - [SQL Developer Projects](https://github.com/bhavanisuvarna-PLSQL/SQL-Developer-Projects) 
   Schema design, constraints, and optimization samples  
 
-- [Python Exercises](ca://s?q=Show_me_Python_Exercises_repo)  
+- [Python Exercises](https://github.com/bhavanisuvarna-PLSQL/Python-exercises)  
   String slicing, debugging, and exception handling notebooks  
 
 ---
